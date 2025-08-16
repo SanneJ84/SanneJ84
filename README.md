@@ -1,7 +1,15 @@
+
 # Hi there, I'm Jenna 👋
 
 💻 **ICT student (software development)** 
 **Currently learning:** Full Stack Open
+
+---
+
+### 📚 About me
+- 🎓 Studying **Information and Communications Technology** with a focus on **software development**
+- 🌱 Currently working through **Full Stack Open**
+- 🎮 Interested in **game development and design as well as web development**
 
 ---
 
@@ -22,13 +30,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
 
----
-
-### 📚 About me
-- 🎓 Studying **Information and Communications Technology** with a focus on **software development**
-- 🌱 Currently working through **Full Stack Open**
-- 🎮 Interested in **game development and design**
-  
 ---
 
 ### 📊 GitHub Stats
