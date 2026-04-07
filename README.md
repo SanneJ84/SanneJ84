@@ -1,14 +1,12 @@
 
 # Hi there, I'm Jenna 👋
 
-💻 **ICT student (software development)** 
-**Currently learning:** Full Stack Open
+💻 **ICT student (software development)**
 
 ---
 
 ### 📚 About me
 - 🎓 Studying **Information and Communications Technology** with a focus on **software development**
-- 🌱 Currently working through **Full Stack Open**
 - 🎮 Interested in **game development and design as well as web development**
 
 ---
