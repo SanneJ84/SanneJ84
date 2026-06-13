@@ -6,6 +6,7 @@
 ### 📚 About me
 - 🎓 Software Developer with a Vocational Qualification in Information and Communications Technology
 - 🎮 Interested in game development, game design, and web development
+- 🌱 Currently exploring Unity
 
 ---
 
